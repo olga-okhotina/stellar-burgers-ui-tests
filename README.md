@@ -24,5 +24,3 @@ Java 11 · Selenium 4 · JUnit 5 · WebDriverManager · REST Assured · Allure �
 mvn clean test                     # Chrome (default)
 mvn clean test -Dbrowser=firefox   # Firefox
 mvn allure:serve                   # open the report
-
-Part 1 of the final (diploma) project, Yandex Practicum QA Automation course.
